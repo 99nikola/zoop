@@ -1,0 +1,13 @@
+
+#root {
+    min-height: 100vh;
+    position: relative;
+}
+
+@media (min-width: 850px) {
+    #root {
+        border: 1px solid black;
+        width: 850px;
+        margin: 0 auto;
+    }
+}
